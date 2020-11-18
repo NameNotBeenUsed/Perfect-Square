@@ -39,7 +39,7 @@ Results
 =
 
 __How to Run Our Code__<br>
-There are two methods to run our code.<code>
+<code>
 You could use command window, then cd to the file and then input "dotnet fsi --langversion:preview Project1.fsx 1000000 2" to get the answer.<br>
 Both of the methods could run our code succeed.
 
