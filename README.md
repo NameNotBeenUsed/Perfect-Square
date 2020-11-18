@@ -39,7 +39,6 @@ Results
 =
 
 __How to Run Our Code__<br>
-
 You could use command window, then cd to the file and then input <code>"dotnet fsi --langversion:preview timeon.fsx 1000000 2"<br> to get the answer.
 Both of the methods could run our code succeed.
 
